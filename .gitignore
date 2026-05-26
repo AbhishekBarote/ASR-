@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.venv/
+uploads/
+recordings/
+outputs/
+*.xlsx
+.DS_Store

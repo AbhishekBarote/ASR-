@@ -1,0 +1,15 @@
+streamlit
+deepgram-sdk
+groq
+google-cloud-speech
+rapidfuzz
+jiwer
+python-dotenv
+pandas
+openpyxl
+requests
+faster-whisper
+torch
+ffmpeg-python
+ctranslate2
+plotly
