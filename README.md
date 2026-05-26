@@ -75,10 +75,14 @@ Raw numbers must be contextualized by the use case:
    ```
 
 4. Environment Variables:
-   Create a `.env` file in the root directory and add your API keys based on the provided `.env.example` (or configure necessary keys for Deepgram, OpenAI, etc.):
+   Create a `.env` file in the root directory and add your API keys based on the provided `.env.example`:
    ```env
-   DEEPGRAM_API_KEY=your_api_key_here
-   # Add other required keys
+   PORT=5000
+   DEEPGRAM_API_KEY=
+   GROQ_API_KEY=
+   SARVAM_API_KEY=
+   LOCAL_WHISPER_URL=
+   NODE_ENV=development
    ```
 
 ### Running the Project
