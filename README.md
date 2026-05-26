@@ -98,3 +98,11 @@ streamlit run dashboard.py
 # or depending on the framework used
 # python dashboard.py
 ```
+<img width="1913" height="143" alt="image" src="https://github.com/user-attachments/assets/7c272e3d-7bb6-4677-8a2a-4811b24ca0c7" />
+
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/bfb76099-bede-4168-9e97-3873e50e9dc3" />
+
+<img width="1915" height="675" alt="image" src="https://github.com/user-attachments/assets/104da772-d80a-42bb-83dd-c1fea53fd74d" />
+
+<img width="1919" height="694" alt="image" src="https://github.com/user-attachments/assets/44037901-e61a-4a1a-884b-b0c93dabbaa7" />
+
